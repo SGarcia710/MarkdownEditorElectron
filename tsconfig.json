@@ -9,11 +9,6 @@
     "isolatedModules": true,
     "types": ["node"],
     "typeRoots": ["node_modules/@types"],
-    "lib": ["ESNext"],
-    "jsx": "react",
-    "allowSyntheticDefaultImports": true,
-    "paths": {
-      "/@/*": ["./src/*"]
-    }
+    "lib": ["ESNext"]
   }
 }
