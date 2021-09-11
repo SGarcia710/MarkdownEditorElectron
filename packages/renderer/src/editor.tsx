@@ -1,3 +1,4 @@
+import './shim'
 import React, { useCallback, useEffect } from 'react'
 import useCodeMirror from './use-codemirror'
 import './editor.css'
